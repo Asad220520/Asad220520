@@ -3,7 +3,7 @@
 
 ---
 
-### :man_technologist: Обо мне:
+### :man_technologist: About Me:
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. "Front-end developer with a passion for crafting user-friendly and visually appealing web experiences. I've honed my skills through dedicated courses and a 6-month internship. My journey in web development has equipped me with proficiency in HTML, CSS, and JavaScript, and I'm always eager to stay updated with the latest trends in the field. Let's collaborate and build amazing digital interfaces together!"
 
