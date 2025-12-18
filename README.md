@@ -1,64 +1,55 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Asadbek%20Khakimov&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer&descAlignY=55&descSize=25" width="100%" />
+</div>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hi,+I'm+Asad!;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82,+%D1%8F+%D0%90%D1%81%D0%B0%D0%B4!;Frontend+Developer;React+%7C+TypeScript+%7C+UI%2FUX" alt="Typing SVG" />
-  </a>
+<br />
+
+<details>
+  <summary><b>🇬🇧 Click to read in English</b></summary>
+  <br/>
+  <ul>
+    <li>👋 Hi, I’m <b>Asad</b>, a passionate Frontend Developer.</li>
+    <li>👀 I’m interested in <b>React Ecosystem, UI/UX Design</b>.</li>
+    <li>🌱 I’m currently learning <b>TypeScript & Next.js</b>.</li>
+    <li>💞️ I’m looking to collaborate on <b>Open Source projects</b>.</li>
+    <li>📫 How to reach me: <a href="https://t.me/Asad220502">Telegram</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>🇷🇺 Нажми, чтобы прочитать на русском</b></summary>
+  <br/>
+  <ul>
+    <li>👋 Привет, я <b>Асад</b>, увлеченный Фронтенд-разработчик.</li>
+    <li>👀 Меня интересует <b>Экосистема React, UI/UX дизайн</b>.</li>
+    <li>🌱 Сейчас я углубленно изучаю <b>TypeScript и Next.js</b>.</li>
+    <li>💞️ Готов к сотрудничеству в <b>Open Source проектах</b>.</li>
+    <li>📫 Связаться со мной: <a href="https://t.me/Asad220502">Telegram</a></li>
+  </ul>
+</details>
+
+<hr/>
+
+<div align="center">
+
+  ### 💻 Toolkit / Инструментарий
+
+  | Frontend | Styling | Tools |
+  | :---: | :---: | :---: |
+  | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) | ![Tailwind](https://img.shields.io/badge/Tailwind-20232A?style=flat&logo=tailwindcss&logoColor=06B6D4) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
+  | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) |
+  | ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
 
   <br/>
 
-  <table>
-    <tr>
-      <td valign="top" width="50%">
-        <h3 align="center">🇬🇧 About Me</h3>
-        <p>
-          I'm a <b>Frontend Developer</b> with a passion for building beautiful web interfaces. <br/>
-          🚀 <b>Focus:</b> React, modern UI, and clean code.<br/>
-          🌱 <b>Currently learning:</b> Advanced Backend & DevOps.<br/>
-          💬 <b>Ask me about:</b> JavaScript, CSS tricks, and Figma.
-        </p>
-      </td>
-      <td valign="top" width="50%">
-        <h3 align="center">🇷🇺 Обо мне</h3>
-        <p>
-          Я <b>Фронтенд-разработчик</b>, люблю создавать красивые интерфейсы.<br/>
-          🚀 <b>Фокус:</b> React, современный UI и чистый код.<br/>
-          🌱 <b>Изучаю сейчас:</b> Продвинутый Бэкенд и DevOps.<br/>
-          💬 <b>Спрашивай про:</b> JavaScript, CSS трюки и Figma.
-        </p>
-      </td>
-    </tr>
-  </table>
+  ### 📊 Stats / Статистика
 
-  <br/>
-
-  <h3>🛠 Tech Stack / Стек технологий</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,sass,bootstrap,git,github,vscode,figma,linux&perline=7" />
+  ![Github Stats](https://github-readme-stats.vercel.app/api?username=Asad220520&show_icons=true&hide_title=true&hide_border=true&locale=en&theme=merko)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asad220520&layout=compact&hide_border=true&theme=merko)
 
   <br/><br/>
 
-  <a href="https://www.linkedin.com/in/%D0%B0%D1%81%D0%B0%D0%B4%D0%B1%D0%B5%D0%BA-%D1%85%D0%B0%D0%BA%D0%B8%D0%BC%D0%BE%D0%B2-8547b9277/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://t.me/Asad220502">
-    <img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-
-  <br/><br/>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Asad220520&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asad220520&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" />
-
-  <br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Asad220520&theme=tokyonight&hide_border=true&background=00000000" />
-  
-  <br/><br/>
-  
-  ![Snake animation](https://github.com/Asad220520/Asad220520/blob/output/github-contribution-grid-snake.svg)
-
-  <br/>
-  
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Asad220520.Asad220520&left_text=Visitors&right_color=f75c7e" />
+  [![](https://visit-counter.vercel.app/counter.png?page=Asad220520/Asad220520)](https://github.com/Asad220520)
 
 </div>
